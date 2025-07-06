@@ -1,0 +1,15 @@
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\bin\Debug\net9.0\Ejercicio2.exe
+C:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\bin\Debug\net9.0\Ejercicio2.deps.json
+C:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\bin\Debug\net9.0\Ejercicio2.runtimeconfig.json
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\bin\Debug\net9.0\Ejercicio2.dll
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\bin\Debug\net9.0\Ejercicio2.pdb
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfoInputs.cache
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfo.cs
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\Ejercicio2.csproj.CoreCompileInputs.cache
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\Ejercicio2.sourcelink.json
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\Ejercicio2.dll
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\refint\Ejercicio2.dll
+c:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\Ejercicio2.pdb
+C:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\johal\Documents\GitHub\PatronesDiseno\AbstractFactory\Ejercicio2\obj\Debug\net9.0\ref\Ejercicio2.dll
