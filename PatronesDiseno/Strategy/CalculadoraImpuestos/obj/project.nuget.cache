@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oufnCcE6Ml4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\CalculadoraImpuestos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johal\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

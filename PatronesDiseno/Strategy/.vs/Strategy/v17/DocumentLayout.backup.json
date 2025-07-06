@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\implementaciones\\exportaciones\\exportadorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\implementaciones\\exportaciones\\exportadorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\implementaciones\\calculos\\calculomediotiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\implementaciones\\calculos\\calculomediotiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\implementaciones\\empleados\\empleadomediotiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\implementaciones\\empleados\\empleadomediotiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\implementaciones\\empleados\\empleadocontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\implementaciones\\empleados\\empleadocontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\implementaciones\\empleados\\empleadotiempocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\implementaciones\\empleados\\empleadotiempocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\implementaciones\\exportaciones\\exportadortxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\implementaciones\\exportaciones\\exportadortxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\implementaciones\\exportaciones\\exportadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\implementaciones\\exportaciones\\exportadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\abstracciones\\iestrategiaexportacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\abstracciones\\iestrategiaexportacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\abstracciones\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\abstracciones\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\implementaciones\\calculos\\calculotiempocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\implementaciones\\calculos\\calculotiempocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\empleadofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\empleadofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|c:\\users\\johal\\documents\\github\\patronesdiseno\\strategy\\calculadoraimpuestos\\abstracciones\\iestrategiaimpuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F33A6-6B3D-DC08-CD8B-92ECB4B98D16}|CalculadoraImpuestos\\CalculadoraImpuestos.csproj|solutionrelative:calculadoraimpuestos\\abstracciones\\iestrategiaimpuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoMedioTiempo.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoMedioTiempo.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoMedioTiempo.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoMedioTiempo.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoMedioTiempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:42:02.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoTiempoCompleto.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoTiempoCompleto.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoTiempoCompleto.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoTiempoCompleto.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoTiempoCompleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:42:10.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculoMedioTiempo.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Calculos\\CalculoMedioTiempo.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Implementaciones\\Calculos\\CalculoMedioTiempo.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Calculos\\CalculoMedioTiempo.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Implementaciones\\Calculos\\CalculoMedioTiempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:43:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Program.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Program.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:35:20.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExportadorTxt.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorTxt.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorTxt.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorTxt.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorTxt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:06:22.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportadorJson.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorJson.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorJson.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorJson.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:06:05.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExportadorCsv.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorCsv.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorCsv.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorCsv.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Implementaciones\\Exportaciones\\ExportadorCsv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:07:11.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoContrato.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoContrato.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoContrato.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoContrato.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Implementaciones\\Empleados\\EmpleadoContrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:27:13.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\EmpleadoDTO.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\EmpleadoDTO.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\EmpleadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:49:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Abstracciones\\Empleado.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Abstracciones\\Empleado.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Abstracciones\\Empleado.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Abstracciones\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:21:29.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEstrategiaExportacion.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Abstracciones\\IEstrategiaExportacion.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Abstracciones\\IEstrategiaExportacion.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Abstracciones\\IEstrategiaExportacion.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Abstracciones\\IEstrategiaExportacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:05:31.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Input.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Input.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Input.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Input.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:45:14.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exportador.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Exportador.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Exportador.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Exportador.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Exportador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:37:39.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculoTiempoCompleto.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Calculos\\CalculoTiempoCompleto.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Implementaciones\\Calculos\\CalculoTiempoCompleto.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Implementaciones\\Calculos\\CalculoTiempoCompleto.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Implementaciones\\Calculos\\CalculoTiempoCompleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:43:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpleadoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\EmpleadoFactory.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\EmpleadoFactory.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\EmpleadoFactory.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\EmpleadoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:08:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEstrategiaImpuesto.cs",
+              "DocumentMoniker": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Abstracciones\\IEstrategiaImpuesto.cs",
+              "RelativeDocumentMoniker": "CalculadoraImpuestos\\Abstracciones\\IEstrategiaImpuesto.cs",
+              "ToolTip": "C:\\Users\\johal\\Documents\\GitHub\\PatronesDiseno\\Strategy\\CalculadoraImpuestos\\Abstracciones\\IEstrategiaImpuesto.cs",
+              "RelativeToolTip": "CalculadoraImpuestos\\Abstracciones\\IEstrategiaImpuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:15:06.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
